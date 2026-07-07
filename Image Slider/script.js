@@ -1,7 +1,8 @@
 const images = ["img1.jpg", "img2.jpg", "img3.jpg", "img4.jpg", "img5.jpg"];
 
 let index = 0;
-document.querySelector(".btn-1").onclick = function () {
+
+document.querySelector(".next-btn").onclick = function () {
   if (index < images.length - 1) {
     index++;
   } else {
@@ -10,7 +11,7 @@ document.querySelector(".btn-1").onclick = function () {
   document.querySelector("img").attributes.src.value =`images/${images[index]}`;
 };
 
-document.querySelector(".btn-2").onclick = function () {
+document.querySelector(".previous-btn").onclick = function () {
   if (index > 0) {
     index--;
   } else {

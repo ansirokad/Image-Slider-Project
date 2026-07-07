@@ -16,12 +16,12 @@ button{
     border: none;
     position: relative;
 }
-.btn-1{
+.previous-btn{
     position: absolute;
     left: 0;
     top: 50%;
 }
-.btn-2{
+.next-btn{
     position: absolute;
     right: 0;
     top: 50%;
