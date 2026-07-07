@@ -1,31 +1,29 @@
 # Image Slider Program
 
-## Structure
+## ◈ Structure
 
- 📁 Image Slider
-   - 📄 index.html
-   - 🎨 style.css
-   - 📜 script.js
-
+### 📁 Image Slider
+  - 📄 index.html
+  - 🎨 style.css
+  - 📜 script.js
 
 
 ## 📁 Images
- - 🖼️ img1.jpg 
- - 🖼️ img2.jpg 
- - 🖼️ img3.jpg 
- - 🖼️ img4.jpg 
- - 🖼️ img5.jpg
-
+  - 🖼️ img1.jpg 
+  - 🖼️ img2.jpg 
+  - 🖼️ img3.jpg 
+  - 🖼️ img4.jpg 
+  - 🖼️ img5.jpg
 
 
 ## 🔘 Button
-- ▶️ Next Button
-- ◀️ Previous Button
+  - ▶️ Next Button
+  - ◀️ Previous Button
 
 ___
 
-## Screensort
-- ![Flower Image](sceensort.png)
+## 📷 Screensort
+![Flower Image](sceensort.png)
 
 ___
 
