@@ -8,7 +8,7 @@
   - 📜 script.js
 
 
-## 📁 Images
+### 📁 Images
   - 🖼️ img1.jpg 
   - 🖼️ img2.jpg 
   - 🖼️ img3.jpg 
@@ -16,16 +16,16 @@
   - 🖼️ img5.jpg
 
 
-## 🔘 Button
+### 🔘 Button
   - ▶️ Next Button
   - ◀️ Previous Button
 
 ___
 
-## 📷 Screensort
+### 📷 Screensort
 ![Flower Image](sceensort.png)
 
 ___
 
-## 🔗 Video Link
+### 🔗 Video Link
 https://drive.google.com/file/d/1cfIzrbJUugNJlZN3-EfEfyPgQyHb-hC8/view?usp=sharing
